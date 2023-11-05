@@ -17,16 +17,16 @@
                 0 32px 64px -48px rgba(0,0,0,0.8);
 }
 .chatbot header{
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
     background: rgb(34, 96, 167);
 }
 .chatbot header i{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .chatbot header h2{
     color: rgb(222, 234, 248);
-    font-size: 1.1rem;
+    font-size: .6rem;
 }
 .chatbot .chatbox{
     height: 510px;
