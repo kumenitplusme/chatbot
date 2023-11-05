@@ -22,11 +22,11 @@
     background: rgb(34, 96, 167);
 }
 .chatbot header i{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .chatbot header h2{
     color: rgb(222, 234, 248);
-    font-size: 1.4rem;
+    font-size: 1.1rem;
 }
 .chatbot .chatbox{
     height: 510px;
